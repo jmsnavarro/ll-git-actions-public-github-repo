@@ -26,3 +26,5 @@ jobs:
       with:
         args: 'FIXED'
 ```
+
+# Testing the workflow
